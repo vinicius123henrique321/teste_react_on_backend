@@ -1,0 +1,13 @@
+[
+    {
+      "email": "user",
+      "password": "1234",
+      "redirectPage": "/homeUser"
+    },
+    {
+      "email": "manager",
+      "password": "4321",
+      "redirectPage": "/homeManager"
+    }
+  ]
+  
