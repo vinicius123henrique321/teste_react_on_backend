@@ -1,4 +1,4 @@
-import db from '../Db.js';
+import db from '../Db.mjs';
 import Simulacao from '../models/simulacaoModel.mjs';
 
 const simulacaoController = {

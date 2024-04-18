@@ -1,5 +1,5 @@
 // veiculosController.mjs
-import db from '../Db.js';
+import db from '../Db.mjs';
 import Veiculo from '../models/veiculosModel.mjs';
 
 const veiculosController = {
