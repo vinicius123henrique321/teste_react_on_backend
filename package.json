@@ -4,5 +4,9 @@
     "express": "^4.19.2",
     "mysql": "^2.18.1",
     "vercel": "^34.1.1"
+  }, 
+  "scripts": {
+    "vercel-build": "npm install",
+    "start": "node server.mjs"
   }
 }

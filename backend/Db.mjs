@@ -2,7 +2,7 @@ import { createConnection } from 'mysql';
 
 // Configurações da conexão
 const connection = createConnection({
-  host: 'localhost',
+  host: 'postgresql://neondb_owner:uSHqwXMN3WY9@ep-long-wood-a5ekl978.us-east-2.aws.neon.tech/neondb?sslmode=require',
   user: 'root',
   password: 'vinielivia1',
   database: 'OnCarDb'
